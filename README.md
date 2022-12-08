@@ -9,7 +9,7 @@ go build -v .
 ## How to run
 
 ```shell
-./stability --config ./sample.yaml test --threads 2
+./stability test --config ./sample.yaml --threads 2
 ```
 
 ## Expected output
