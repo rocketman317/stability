@@ -15,7 +15,7 @@ go build -v .
 ## Expected output
 
 ```
-2022/12/08 16:14:14 Using config file: /Users/raver119/develop/rocket-s3/data/config.yaml 2
+2022/12/08 16:14:14 Using config file: ./sample.yaml 2
 2022/12/08 16:14:14 Running stability test with [2] threads
 2022/12/08 16:15:14 Still running...
 2022/12/08 16:16:14 Still running...
