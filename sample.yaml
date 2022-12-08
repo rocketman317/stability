@@ -1,0 +1,6 @@
+### Database parameters
+keyspace: rdrive_test # cassandra keyspace to use
+database: "127.0.0.1" # a comma separated list of cassandra ips rocket should connect to
+database-engine: "cassandra" # cassandra|scylla
+datacenter: "SJC03" # should be set to the local DC
+database-no-tls: true # should we use a plaintext connection to cassandra?
